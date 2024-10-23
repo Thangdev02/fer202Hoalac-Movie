@@ -1,0 +1,68 @@
+{
+    "movies": [
+      {
+        "id": 1,
+        "title": "Keeping Up with the Steins",
+        "release": "5/10/2024",
+        "description": "Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.",
+        "producer": "Lorna Lockhurst",
+        "director": "Johnathan Verrine",
+        "genres": ["Comedy", "Action"],
+        "stars": ["Mikael Ginvally", "Leeanne Dyson"]
+      },
+      {
+        "id": 2,
+        "title": "Quartet",
+        "release": "5/25/2024",
+        "description": "Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl.",
+        "producer": "Claire Lawry",
+        "director": "Ricky Ysson",
+        "genres": ["Comedy", "Cartoon", "Action"],
+        "stars": ["Feo Passo"]
+      },
+      {
+        "id": 3,
+        "title": "This Boy's Life",
+        "release": "5/28/2024",
+        "description": "Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat.",
+        "producer": "Gary Geely",
+        "director": "Egon Jose",
+        "genres": ["Drama", "Comedy"],
+        "stars": ["Magdalene Oswick", "Feo Passo", "Hugues MacKey"]
+      },
+      {
+        "id": 4,
+        "title": "Each Dawn I Die",
+        "release": "5/3/2024",
+        "description": "Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.",
+        "producer": "Corie Awde",
+        "director": "Ricky Ysson",
+        "genres": ["Cartoon"],
+        "stars": ["Leeanne Dyson", "Mikael Ginvally", "Feo Passo", "Magdalene Oswick", "Hugues MacKey", "Nanette Hebburn"]
+      },
+      {
+        "id": 5,
+        "title": "The Green Slime",
+        "release": "5/7/2024",
+        "description": "Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo.",
+        "producer": "Claire Lawry",
+        "director": "Ricky Ysson",
+        "genres": ["Action", "Comedy"],
+        "stars": ["Mikael Ginvally", "Leeanne Dyson", "Nanette Hebburn", "Magdalene Oswick", "Hugues MacKey"]
+      }
+    ],
+    "producers": [
+      { "id": 1, "name": "Claire Lawry" },
+      { "id": 2, "name": "Gary Geely" },
+      { "id": 3, "name": "Ynez Manckletow" },
+      { "id": 4, "name": "Corie Awde" },
+      { "id": 5, "name": "Lorna Lockhurst" }
+    ],
+    "genres": [
+      { "id": 1, "name": "Comedy" },
+      { "id": 2, "name": "Action" },
+      { "id": 3, "name": "Cartoon" },
+      { "id": 4, "name": "Drama" }
+    ]
+  }
+  
